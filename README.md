@@ -53,12 +53,6 @@ This project demonstrates how programming can bring transparency to financial de
 
 ---
 
-## 📂 Project Purpose
-
-This project demonstrates how programming can bring transparency to financial decision-making and serves as a strong portfolio piece for financial computing and amortization modeling.
-
----
-
 ## 🏷 Attribution
 
 This project was created by **Anish Deshpande** of **UIUC** as part of personal exploration in financial software and amortization modeling.
